@@ -11,7 +11,7 @@ Apresentação da ementa da disciplina, principais conteúdos a serem estudados 
 ### Aula 02 – Evolução da Computação
 Exploramos a história da computação, desde o ábaco até tecnologias atuais como **Cloud Computing**, **Inteligência Artificial** e **Computação Quântica**.
 
-🔗 [**Atividade - Linha do tempo sobre Cloud Computing**](https://miro.com/welcomeonboard/UXI1Z2lkSXpYLytQZVZpNTR0czB3YWpJY08rTm5xV28vQnlQYW1ldjRSRG5uNVdKT3hRdUx4T3JFenlscjBWR1BhUTlQUDlLUFJhOTFLRitreFdGZzFtS2JnUkNaOS9rZ1JNS0xCdEZ1T0JpVUl4RTc0SzBRaFFBeG42dStoR2RBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=635366859427)
+🔗 [**Atividade - Linha do tempo sobre Cloud Computing**](https://miro.com/app/board/uXjVIdwFXxE=/)
 
 ---
 
