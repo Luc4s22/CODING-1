@@ -1,6 +1,6 @@
 # 👨‍💻 CODING I | Introdução à Programação
 
-<img align="right" src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="C#" width="270"/>
+<img align="right" src="https://www.pragimtech.com/wp-content/uploads/2019/04/csharp-net.png"/>
 
 ### 📌 Tema: **Linguagens de Programação – C#**
 
