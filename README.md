@@ -34,6 +34,8 @@ Como planejar e desenvolver um chatbot com base em fluxogramas, aplicando lógic
 
 🔗 [**Atividade - Criação de Chatbot no Typebot para hortelaria**](https://typebot.co/my-typebot-osz4dpu)
 
+   [**Atividade - Flucograma-hortelaria**](https://miro.com/app/board/uXjVICiASrQ=/)
+
 ---
 
 ### Aula 06 – Introdução ao Low Code
