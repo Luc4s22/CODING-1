@@ -28,7 +28,7 @@ Foi desenvolvida uma simulação de chatbot com foco no atendimento inicial de u
 ![Chatbot da Clínica Odontológica](pasta/chatbot.png)
 
 🔗 **Acesse o chatbot clicando aqui:**  
-👉 [Acessar Chatbot no Typebot](https://app.typebot.io/typebots/cm8xmk79f000gzxj5024019ac/edit)
+👉 [Acessar Chatbot no Typebot](https://typebot.co/my-typebot-24019ac)
 
 ---
 
