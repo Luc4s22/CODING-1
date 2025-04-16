@@ -32,7 +32,7 @@ Discussão sobre algoritmos, pseudocódigos e fluxogramas como ferramentas essen
 ### Aula 05 – Do Fluxograma ao Chatbot
 Como planejar e desenvolver um chatbot com base em fluxogramas, aplicando lógica de decisão (if, elif) e interações entre bot e usuário.
 
-🔗 [**Atividade - Criação de Chatbot no Typebot**](https://typebot.co/my-typebot-tmytafa)
+🔗 [**Atividade - Criação de Chatbot no Typebot para hortelaria**](https://typebot.co/my-typebot-osz4dpu)
 
 ---
 
